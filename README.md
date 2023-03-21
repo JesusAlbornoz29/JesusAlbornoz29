@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesusalbornoz29" alt="jesusalbornoz29" /></a> </p>
 
 - 📫 How to reach me **alfredojesus.albornoz@gmail.com**
+- Linkedin 👉 **https://www.linkedin.com/in/jesus-albornoz-584866155/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
