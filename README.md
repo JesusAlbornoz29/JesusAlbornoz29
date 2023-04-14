@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alfredo Albornoz</h1>
-<h3 align="center">Desde la infancia me apasiona la tecnología, los desafíos y la resolución de problemas. Se podría decir que mi segunda pasión es mi
-desarrollo profesional, a􀁾nar mis conocimientos y evolucionar en el sector tecnológico, me encuentro siempre aprendiendo.</h3>
+<h3 align="center">¡Hola! Soy una persona apasionada por la tecnología, siempre he sentido una gran curiosidad y fascinación por el mundo digital. Me encanta lo que estudio y siempre estoy buscando nuevas formas de aprender y mejorar mis habilidades. Estoy muy emocionado por empezar a trabajar en el campo de la tecnología para seguir aprendiendo y creciendo profesionalmente.
+
+Aunque me encanta el trabajo y el aprendizaje, también soy una persona sencilla que valora mucho su tiempo en familia y amigos. Disfruto de la compañía de mis seres queridos y de salir de vez en cuando para desconectar y relajarme.
+
+Si buscas a alguien comprometido y apasionado por la tecnología, pero que también valora su vida personal, ¡no dudes en contactarme! Estoy seguro de que juntos podemos lograr grandes cosas.</h3>
 
 <img align="center" alt="Coding" width="400" height="280" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusalbornoz29&label=Profile%20views&color=0e75b6&style=flat" alt="jesusalbornoz29" /> </p>
