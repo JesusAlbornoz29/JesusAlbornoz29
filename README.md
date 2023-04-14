@@ -13,7 +13,7 @@ Si buscas a alguien comprometido y apasionado por la tecnología, pero que tambi
 
 - 👨‍💻 Aqui colgare mis proyectos: 
 
--                              1) https://scintillating-croquembouche-e37ceb.netlify.app
+-  1) **https://scintillating-croquembouche-e37ceb.netlify.app**
 
 - ⚡ Dato curioso, yo también soy jugador 😉
 
