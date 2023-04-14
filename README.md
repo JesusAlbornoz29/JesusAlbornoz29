@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alfredo Albornoz</h1>
-<h3 align="center">¡Hola! Soy una persona apasionada por la tecnología, siempre he sentido una gran curiosidad y fascinación por el mundo digital. Me encanta lo que estudio y siempre estoy buscando nuevas formas de aprender y mejorar mis habilidades. Estoy muy emocionado por empezar a trabajar en el campo de la tecnología para seguir aprendiendo y creciendo profesionalmente.
+<h1 align="center">¡Hola👋!, Mi nombre es Alfredo Albornoz</h1>
+<h3 align="center">Soy una persona apasionada por la tecnología, siempre he sentido una gran curiosidad y fascinación por el mundo digital. Me encanta lo que estudio y siempre estoy buscando nuevas formas de aprender y mejorar mis habilidades. Estoy muy emocionado por empezar a trabajar en el campo de la tecnología para seguir aprendiendo y creciendo profesionalmente.
 
 Aunque me encanta el trabajo y el aprendizaje, también soy una persona sencilla que valora mucho su tiempo en familia y amigos. Disfruto de la compañía de mis seres queridos y de salir de vez en cuando para desconectar y relajarme.
 
 Si buscas a alguien comprometido y apasionado por la tecnología, pero que también valora su vida personal, ¡no dudes en contactarme! Estoy seguro de que juntos podemos lograr grandes cosas.</h3>
 
-<img align="center" alt="Coding" width="400" height="280" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
+<p><img align="right" src="https://blogs.sap.com/wp-content/uploads/2022/06/1325-code-fork-outline.gif" alt="hamzi-se" height="200" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusalbornoz29&label=Profile%20views&color=0e75b6&style=flat" alt="jesusalbornoz29" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesusalbornoz29" alt="jesusalbornoz29" /></a> </p>
 
