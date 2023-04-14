@@ -11,7 +11,7 @@ Si buscas a alguien comprometido y apasionado por la tecnología, pero que tambi
 
 - 📫 Como contactarme **alfredojesus.albornoz@gmail.com**
 
-- 👨‍💻 Aqui colgare mis proyectos: 
+- 👨‍💻 Aqui colgare mis proyectos: \n
                1) https://scintillating-croquembouche-e37ceb.netlify.app
 
 - ⚡ Dato curioso, yo también soy jugador 😉
@@ -21,7 +21,7 @@ Si buscas a alguien comprometido y apasionado por la tecnología, pero que tambi
 
 <h3 align="left">Contactate con migo:</h3>
 <p align="left">
-  <a href="alfredojesus.albornoz@gmail.com" target= "blank"><img align="center" src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1-800x450.png" alt="Gmail" height="30" width="40" /></a>
+  <a href="alfredojesus.albornoz@gmail.com" target= "blank"><img align="center" src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1-800x450.png" alt="Gmail" height="30" width="50" /></a>
 <a href="https://www.linkedin.com/in/jesus-albornoz-584866155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jesus-albornoz-584866155/" height="30" width="40" /></a>
 <a href="https://discord.gg/#5349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5349" height="30" width="40" /></a>
 </p> 
