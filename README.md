@@ -21,9 +21,6 @@ Si buscas a alguien comprometido y apasionado por la tecnología, pero que tambi
 
 - ⚡ Dato curioso, yo también soy gamer 😉
 
-<p>![jim_0 (1)](https://user-images.githubusercontent.com/40578130/232103150-51cc994e-ae4c-4467-8a12-5dc76a632ca9.gif) </p>
-
-
 <h3 align="left">Contactame:</h3>
 <p align="left">
   <a href="alfredojesus.albornoz@gmail.com" target= "blank"><img align="center" src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1-800x450.png" alt="Gmail" height="30" width="50" /></a>
