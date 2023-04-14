@@ -4,7 +4,8 @@
 Aunque me encanta el trabajo y el aprendizaje, también soy una persona sencilla que valora mucho su tiempo en familia y amigos. Disfruto de la compañía de mis seres queridos y de salir de vez en cuando para desconectar y relajarme.
 
 Si buscas a alguien comprometido y apasionado por la tecnología, pero que también valora su vida personal, ¡no dudes en contactarme! Estoy seguro de que juntos podemos lograr grandes cosas.</h3>
-
+<p><img align="right" alt="Coding" width="400" height="280" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusalbornoz29&label=Profile%20views&color=0e75b6&style=flat" alt="jesusalbornoz29" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesusalbornoz29" alt="jesusalbornoz29" /></a> </p>
@@ -18,8 +19,7 @@ Si buscas a alguien comprometido y apasionado por la tecnología, pero que tambi
 
 - ⚡ Dato curioso, yo también soy jugador 😉
 
-<p><img align="right" alt="Coding" width="400" height="280" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
-</p>
+
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
