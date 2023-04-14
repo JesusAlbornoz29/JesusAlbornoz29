@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alfredo Albornoz</h1>
-<h3 align="center">Since I finished my baccalaureate in computer science, programming attracted me, I continued my path studying in a self-taught way leaving aside (for the moment) the engineering faculty. I am currently studying a developer degree with the option of specializing in FrontEnd or BackEnd (to be honest, I haven't decided yet ^^ ). The world of developers is vast and fascinating, I really want to be able to participate in projects.</h3>
+<h3 align="center">Desde la infancia me apasiona la tecnología, los desafíos y la resolución de problemas. Se podría decir que mi segunda pasión es mi
+desarrollo profesional, a􀁾nar mis conocimientos y evolucionar en el sector tecnológico, me encuentro siempre aprendiendo.</h3>
 
 <img align="center" alt="Coding" width="400" height="280" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusalbornoz29&label=Profile%20views&color=0e75b6&style=flat" alt="jesusalbornoz29" /> </p>
