@@ -19,7 +19,7 @@ Si buscas a alguien comprometido y apasionado por la tecnología, pero que tambi
   <li> https://scintillating-croquembouche-e37ceb.netlify.app</li>
   </ul>
 
-- ⚡ Dato curioso, yo también soy jugador 😉
+- ⚡ Dato curioso, yo también soy gamer 😉
 
 
 
