@@ -5,7 +5,7 @@ Aunque me encanta el trabajo y el aprendizaje, también soy una persona sencilla
 
 Si buscas a alguien comprometido y apasionado por la tecnología, pero que también valora su vida personal, ¡no dudes en contactarme! Estoy seguro de que juntos podemos lograr grandes cosas.</h3>
 
-<p><img align="right" src="https://blogs.sap.com/wp-content/uploads/2022/06/1325-code-fork-outline.gif" alt="hamzi-se" height="200" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusalbornoz29&label=Profile%20views&color=0e75b6&style=flat" alt="jesusalbornoz29" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesusalbornoz29" alt="jesusalbornoz29" /></a> </p>
 
@@ -29,4 +29,5 @@ Link: https://scintillating-croquembouche-e37ceb.netlify.app
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesusalbornoz29&show_icons=true&locale=en" alt="jesusalbornoz29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jesusalbornoz29&" alt="jesusalbornoz29" /></p>
+<p><img align="right" src="https://blogs.sap.com/wp-content/uploads/2022/06/1325-code-fork-outline.gif" alt="hamzi-se" height="200" /></p>
 
