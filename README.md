@@ -7,9 +7,10 @@ Si buscas a alguien comprometido y apasionado por la tecnología, pero que tambi
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusalbornoz29&label=Profile%20views&color=0e75b6&style=flat" alt="jesusalbornoz29" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesusalbornoz29" alt="jesusalbornoz29" /></a> </p>
 <p><img align="right" alt="Coding" width="400" height="280" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesusalbornoz29" alt="jesusalbornoz29" /></a> </p>
 
 - 📫 Como contactarme **alfredojesus.albornoz@gmail.com**
 
