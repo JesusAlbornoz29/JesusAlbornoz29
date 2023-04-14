@@ -21,6 +21,7 @@ Si buscas a alguien comprometido y apasionado por la tecnología, pero que tambi
 
 - ⚡ Dato curioso, yo también soy gamer 😉
 
+<p>![jim_0 (1)](https://user-images.githubusercontent.com/40578130/232103150-51cc994e-ae4c-4467-8a12-5dc76a632ca9.gif) </p>
 
 
 <h3 align="left">Contactame:</h3>
