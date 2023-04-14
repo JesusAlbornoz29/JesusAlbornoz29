@@ -12,9 +12,9 @@ Si buscas a alguien comprometido y apasionado por la tecnología, pero que tambi
 - 📫 Como contactarme **alfredojesus.albornoz@gmail.com**
 
 - 👨‍💻 Aqui colgare mis proyectos: 
-  <ol>
-  <li>1) **https://scintillating-croquembouche-e37ceb.netlify.app** </li>
-  </ol>
+  <ul type="circle">
+  <li> https://scintillating-croquembouche-e37ceb.netlify.app</li>
+  </ul>
 
 - ⚡ Dato curioso, yo también soy jugador 😉
 
