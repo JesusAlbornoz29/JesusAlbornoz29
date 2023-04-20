@@ -31,8 +31,8 @@ Si buscas a alguien comprometido y apasionado por la tecnología, pero que tambi
 
 - 👨‍💻 Aqui colgare mis proyectos: 
   <ul type="circle">
-  <li> https://scintillating-croquembouche-e37ceb.netlify.app</li>
-  <li> Portfolio en proceso </li>
+  <li> To-Do: https://scintillating-croquembouche-e37ceb.netlify.app</li>
+  <li> Portfolio: En proceso </li>
   </ul>
 - 📫 Como contactarme **alfredojesus.albornoz@gmail.com**
 
