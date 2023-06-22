@@ -16,7 +16,7 @@ Si buscas a alguien comprometido y apasionado por la tecnología, pero que tambi
 <h2 align="center"> Lenguajes y Herramientas</h2>
 <p align="center"> 
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=git,atom,bash,docker,eclipse,figma,github,netlify,postman,hibernate,powershell,selenium,aws,azure,bootstrap,jquery,css,dotnet,html,java,spring,maven,js,idea,linux,mysql,nodejs,postgres,py,sass,stackoverflow,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=git,atom,bash,docker,eclipse,figma,github,netlify,postman,hibernate,powershell,selenium,aws,azure,bootstrap,jquery,css,dotnet,html,java,spring,maven,js,idea,linux,mysql,nodejs,postgres,py,sass,stackoverflow,vscode,visualstudio,mongo" />
   </a>
 </p>
 
