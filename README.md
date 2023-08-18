@@ -2,11 +2,10 @@
 
 
 <h1 align="center">¡Hola<img src="https://user-images.githubusercontent.com/40578130/233377440-6e128900-f692-4ca4-912e-a10a9bf8018a.gif" height="40" width="50"> !, Mi nombre es Jesus Albornoz</h1>
-<h3 align="center">Soy una persona apasionada por la tecnología, siempre he sentido una gran curiosidad y fascinación por el mundo digital. Me encanta lo que estudio y siempre estoy buscando nuevas formas de aprender y mejorar mis habilidades. Estoy muy emocionado por empezar a trabajar en el campo de la tecnología para seguir aprendiendo y creciendo profesionalmente.
-
-Aunque me encanta el trabajo y el aprendizaje, también soy una persona sencilla que valora mucho su tiempo en familia y amigos. Disfruto de la compañía de mis seres queridos y de salir de vez en cuando para desconectar y relajarme.
-
-Si buscas a alguien comprometido y apasionado por la tecnología, pero que también valora su vida personal, ¡no dudes en contactarme! Estoy seguro de que juntos podemos lograr grandes cosas.</h3>
+<h3 align="center">Soy una persona apasionada por el mundo tecnológico. Mi incansable curiosidad me guía, explorando con entusiasmo el vasto territorio digital. Cada paso en mi camino de estudio ha sido un emocionante viaje de descubrimientos y desafíos, impulsándome a mejorar y expandir mis habilidades.
+Estoy emocionado por adentrarme en el ámbito laboral, sabiendo que el aprendizaje es constante. Cada día es una oportunidad para crecer y enriquecer mi perspectiva, agradeciendo cada experiencia que enriquece mi conocimiento. Esta siguiente etapa no es solo un paso adelante, sino un compromiso continuo con el aprendizaje.
+Consciente de la dinámica y evolución del mundo tecnológico, me siento afortunado de formar parte de este viaje emocionante. Mi enfoque es mantener la humildad en mi búsqueda del conocimiento, agradeciendo cada oportunidad para crecer y desarrollarme profesionalmente.
+</h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesusalbornoz29" alt="jesusalbornoz29" /></a> </p>
