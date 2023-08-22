@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusalbornoz29&label=Profile%20views&color=0e75b6&style=flat" alt="jesusalbornoz29" /> </p>
 
 
-<h1 align="center">¡Hola<img src="https://user-images.githubusercontent.com/40578130/233377440-6e128900-f692-4ca4-912e-a10a9bf8018a.gif" height="40" width="50"> !, Mi nombre es Jesus Albornoz</h1>
+<h1 align="center">¡Hola<img src="https://user-images.githubusercontent.com/40578130/233377440-6e128900-f692-4ca4-912e-a10a9bf8018a.gif" height="40" width="50"> !, Mi nombre es Alfredo J. Albornoz</h1>
 <h3 align="center">Soy una persona apasionada por la tecnología, siempre he sentido una gran curiosidad y fascinación por el mundo digital. Me encanta lo que estudio y siempre estoy buscando nuevas formas de aprender y mejorar mis habilidades.
 </h3>
 
