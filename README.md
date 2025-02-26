@@ -28,11 +28,14 @@
 
 - 👨‍💻 Aqui colgare mis proyectos: 
   <ul type="circle">
+    <li> PokeApi: </li>
+      <ul>
+        <li>https://pockedexapi2025.netlify.app</li>
+      </ul>
     <li> To-Do: </li>
       <ul>
         <li>https://scintillating-croquembouche-e37ceb.netlify.app</li>
       </ul>
-    <li> Portfolio: En proceso </li>
     <li>Spring Cloud - Sistema de Microservicios: </li>
       <ul>
         <li>https://github.com/JesusAlbornoz29/Service</li>
