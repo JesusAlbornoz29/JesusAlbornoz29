@@ -13,7 +13,7 @@
 <h2 align="center"> Lenguajes y Herramientas</h2>
 <p align="center"> 
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=git,atom,bash,docker,eclipse,figma,github,netlify,postman,jest,hibernate,powershell,selenium,gitlab,aws,ansible,azure,bootstrap,jquery,css,dotnet,html,java,spring,maven,js,react,babel,vite,webpack,idea,linux,mysql,nodejs,postgres,py,sass,stackoverflow,vscode,visualstudio,mongo" />
+    <img src="https://skillicons.dev/icons?i=git,atom,bash,docker,eclipse,figma,github,netlify,postman,jest,hibernate,powershell,selenium,gitlab,aws,ansible,azure,bootstrap,jquery,css,dotnet,html,java,spring,maven,js,react,babel,vite,webpack,idea,linux,mysql,nodejs,postgres,py,sass,stackoverflow,vscode,visualstudio,mongo,go" />
   </a>
 </p>
 
