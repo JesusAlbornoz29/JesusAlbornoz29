@@ -40,6 +40,10 @@
       <ul>
         <li>https://github.com/JesusAlbornoz29/Service</li>
       </ul>
+    <li> Calculadora: </li>
+      <ul>
+        <li>https://verdant-semifreddo-fd58b1.netlify.app</li>
+      </ul>
   </ul>
 
   </br>
