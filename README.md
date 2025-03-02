@@ -44,6 +44,10 @@
       <ul>
         <li>https://verdant-semifreddo-fd58b1.netlify.app</li>
       </ul>
+    <li> API REST con NodeJs, MongoDB (Mongoose), Express y Docker (Opcional)</li>
+      <ul>
+        <li>https://github.com/JesusAlbornoz29/node_api_rest_mongo</li>
+      </ul>
   </ul>
 
   </br>
