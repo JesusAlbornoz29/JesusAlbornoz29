@@ -50,7 +50,7 @@
       </ul>
         <li> CV Basico HTML,CSS y JS</li>
       <ul>
-        <li>[https://github.com/JesusAlbornoz29/node_api_rest_mongo](https://cvbasico.netlify.app)</li>
+        <li>https://cvbasico.netlify.app</li>
       </ul>
   </ul>
 
