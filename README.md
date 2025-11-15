@@ -34,7 +34,11 @@
         <li>goxtremeecommerce.netlify.app</li>
       </ul>
     </li>
-
+    <li> Cv Actualizado 👷🛠️ (Trabajando)</li>
+      <ul>
+        <li>https://alfredoalbornozcv.netlify.app</li>
+      </ul>
+    
     <li> SistemaDeTurnos </li>
       <ul>
         <li>https://sistemadeturno.netlify.app</li>
@@ -63,10 +67,6 @@
         <li> CV Basico HTML,CSS y JS</li>
       <ul>
         <li>https://cvbasico.netlify.app</li>
-      </ul>
-          <li>CV actualizado  👷🛠️ (Trabajando) </li>
-      <ul>
-        <li>alfredoalbornozcv.netlify.app</li>
       </ul>
   </ul>
 
