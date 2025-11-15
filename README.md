@@ -64,6 +64,10 @@
       <ul>
         <li>https://cvbasico.netlify.app</li>
       </ul>
+          <li>CV actualizado  👷🛠️ (Trabajando) </li>
+      <ul>
+        <li>alfredoalbornozcv.netlify.app</li>
+      </ul>
   </ul>
 
   </br>
