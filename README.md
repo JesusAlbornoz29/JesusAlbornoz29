@@ -31,7 +31,7 @@
       
     <li> E-Commerce 👷🛠️ (Trabajando) </li>
       <ul>
-        <li>goxtremeecommerce.netlify.app</li>
+        <li>https://goxtremeecommerce.netlify.app</li>
       </ul>
     </li>
     <li> Cv Actualizado 👷🛠️ (Trabajando)</li>
